@@ -1,0 +1,13 @@
+.M_data{
+   
+    background-color: blue;
+    display: inline-block;
+    margin-left: 150px;
+}
+ .M_data #new-file-icon{
+     font-size: 20px;
+    place-items:center;
+}
+.M_data a{
+    font-size: 67px;
+}

@@ -1,0 +1,31 @@
+.Nav_all {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252A;
+    }
+    li,a{
+        font-size: 16px;
+        color: honeydew;
+        text-decoration: none;
+    }
+    header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 30px 10%;
+    }
+    .Nav_links{
+        list-style: none;
+    }
+    .Nav_links li{
+        display: inline-block;
+        padding: 0px 20px;
+    
+    }
+    .Nav_links li a {
+        transition: all 0.3s ease 0s;
+    }
+    .Nav_links li a:hover{
+        color: blue;
+    }
